@@ -1,0 +1,3 @@
+<font face="7 days" size="6"> BODYSTYLE </font><i><font size="4" >
+
+no-repeat scroll

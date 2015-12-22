@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<style>
+@font-face
+	{font-family:porsche;
+	panose-1:2 11 6 3 5 3 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+
+@font-face
+	{font-family:Days;
+	panose-1:2 0 5 5 5 0 0 2 0 4;}
+
+@font-face
+   {font-family:"7 days";
+   panose-1:0 0 4 0 0 0 0 0 0 0;}
+ 
+
+{ font-family:porsche; }
+
+{ font-family:Days; }
+
+
+p.serif {font-family:"Times New Roman",Times,serif;}
+
+p.sansserif{font-family:Arial,Helvetica,sans-serif;}
+
+</style>
+
+<head>
+  <title>Bodystyle by Cecil Beach - European Specilists Body Shop Services</title>
+  <meta name="description" content="website template" />
+  <meta name="keywords" content="Porsche, BMW, Body shop, european body shop, porsche body shop" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+  <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+  </script> 
+</head>
+
+<body>
+  <div id="main">
+      <div id="header">
+
+	 <div id="menubar">
+	    <div id="welcome">
+	      <h1><a href="www.bodystylebycecil.com"> <font face="7 days" color:"#B83F1E"> BODYSTYLE <font font face="Bradley hand ITC" size="2">By Cecil Beach </font></font></a></h1>
+	    </div><!--close welcome-->
+            <div id="menu_items">
+	      <ul id="menu">
+                <li class="current"><a href="index.html">Home</a></li>
+                <li><a href="ourwork.html">About US</a></li>
+	            <li><a href="projects.html">Customer Gallary</a></li>
+                <li><a href="testimonials.html">FAQ</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+             </ul>
+            </div><!--close menu items-->
+
+         </div><!--close menubar-->
+        	
+      </div><!--close header-->	
+      
+	<div id="site_content">
+	 
+	  <div id="banner_image">
+	    <div id="slider-wrapper">        
+              <div id="slider" class="nivoSlider">
+                <img src="images/home_1.jpg" alt="" />
+                <img src="images/home_2.jpg" alt="" />
+                <img src="images/home_3.jpg" alt="" />
+                <img src="images/home_4.jpg" alt="" />			
+             </div><!--close slider-->
+	   </div><!--close slider_wrapper-->
+	  </div><!--close banner_image-->	
+
+	  <div class="sidebar_container">       
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Business Partners</h2>
+            <p>We have a large list of business partners</p>
+		<ul>
+			<li> Mobil Works West
+			<li> Finish Line 
+			<li> Power Coating
+			<li> ABC corp
+		</ul>
+          </div><!--close sidebar_item--> 
+        </div><!--close sidebar-->     			
+
+        <div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Contact</h2>
+            <p>Phone: +44 (0)1234 567891</p>
+            <p>Email: <a href="mailto:cecil@bodystyle.com">Cecil Beach - Owner</a></p>
+            <p>Email: <a href="mailto:sam@bodystyle.com">Tricia - Manager</a></p>
+          </div><!--close sidebar_item--> 
+        </div><!--close sidebar-->
+      </div><!--close sidebar_container-->			  
+	 
+	  <div id="content">
+        <div class="content_item">
+	
+	      <h1><b>The Bay Area's European Bodyshop Specialist</b></h1>
+	      <img src="images/Porsche-BMW-Mercedes-audi-lexus-VW.jpg" alt="Our Focus" align="center">
+	      <p>Bodystyle is the Bay Area's premier auto body shop for all your European and other fine automotive car needs. In business since 1976, we pride ourselves on providing the highest quality to our customers. Specializing in Porsche, BMW, and Mercedes, along with other European makes, we are a full service auto body center, using only factory-manufactured parts and paints. Bodystyle offers a comprehensive package of services, from small jobs to complete restorations. If you need an insurance quote, we will be glad to help. We will also work with your insurance company to ensure that only factory-manufactured parts are used. We look forward to working with you.</p>	  
+		  
+                
+		</div><!--close content_item-->
+      </div><!--close content-->   
+	
+	  <div id="content_bottom">
+	    <div class="content_bottom_container_box">
+		  <h4>Latest Yelp Post</h4>
+	      <p> Check out Bodystyles by Cecil on Yelp</p>
+		  <div class="readmore">
+		    <a href="http://www.yelp.com/biz/cecil-beach-bodystyle-san-jose">Read more</a>
+		  </div><!--close readmore-->
+	    </div><!--close content_bottom_container_box-->
+        <div class="content_bottom_container_box">
+         <h4>Customer Gallary</h4>
+	      <p> Bodystyle Customer Gallary</p>
+	      <div class="readmore">
+		    <a href="#">Read more</a>
+		  </div><!--close readmore-->
+	    </div><!--close content_bottom_container_box-->
+        <div class="content_bottom_container_boxl">
+		  <h4>Visit us on Facebook</h4>
+	      <p> Facebook Page for Bodystyle</p>
+	      <div class="readmore">
+		    <a href="#">Read more</a>
+		  </div><!--close readmore-->	  
+	    </div><!--close content_bottom_container_box1-->      
+	    <br style="clear:both"/>
+      </div><!--close content_bottom--> 	
+	
+	</div><!--close site_content--> 
+  
+  </div><!--close main-->
+  
+  <div id="footer">
+	  <a href="http://validator.w3.org/check?uri=referer">Valid XHTML</a> | <a href="http://bodystylebycecil.wordpress.com/">Images</a> | <a href="http://home.comcast.com/~ws.harper/">by Bill Harper</a>
+  </div><!--close footer-->  
+  
+</body>
+</html>
